@@ -52,12 +52,12 @@
   "dependencies": {
     "@mapbox/node-pre-gyp": "^1.0.9",
     "bindings": "~1.5.0",
-    "nan": "~2.15.0",
-    "libxmljs2": "^0.30.1"
+    "nan": "~2.22.0",
+    "libxmljs2": "github:GCL-UCC-NG911/libxmljs2#ngls-main"
   },
   "devDependencies": {
-    "mocha": "^8.1.1",
+    "mocha": "^10.7.3",
     "should": "^13.2.3",
-    "jsdoc-to-markdown": "^6.0.1"
+    "jsdoc-to-markdown": "^9.0.2"
   }
 }
