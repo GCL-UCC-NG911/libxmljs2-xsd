@@ -53,7 +53,7 @@
     "@mapbox/node-pre-gyp": "^1.0.9",
     "bindings": "~1.5.0",
     "nan": "~2.22.0",
-    "libxmljs2": "github:GCL-UCC-NG911/libxmljs2#v1.0.0"
+    "libxmljs2": "github:GCL-UCC-NG911/libxmljs2#ngls-main"
   },
   "devDependencies": {
     "mocha": "^10.7.3",
