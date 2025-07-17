@@ -1,6 +1,6 @@
 {
   "name": "libxmljs2-xsd",
-  "version": "0.30.2",
+  "version": "0.30.3",
   "description": "XSD 1.0 validator based on libxmljs2",
   "main": "index.js",
   "scripts": {
@@ -53,7 +53,7 @@
     "@mapbox/node-pre-gyp": "^1.0.9",
     "bindings": "~1.5.0",
     "nan": "~2.22.0",
-    "libxmljs2": "github:GCL-UCC-NG911/libxmljs2#ngls-main"
+    "libxmljs2": "^0.37.0"
   },
   "devDependencies": {
     "mocha": "^10.7.3",
